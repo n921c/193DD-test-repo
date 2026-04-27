@@ -3,7 +3,7 @@
 
 # General information
 
-What is this repository for? Who is contributing to it?
+What is this repository for? Who is contributing to it
 
 # Data and file information
 
@@ -14,3 +14,5 @@ What are they used for?
 # Rendered output
 
 Where can people find the rendered output of code run in this repository?
+
+The rendered pdf is [here](https://github.com/n921c/193DD-test-repo/blob/main/test-qmd-render.pdf). 
