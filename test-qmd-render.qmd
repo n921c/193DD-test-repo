@@ -1,0 +1,15 @@
+---
+title: "test repo code"
+author: "Natalie Chen"
+format: pdf
+---
+
+# 1. Set up 
+
+```{r}
+#| label: packages
+
+library(tidyverse)
+
+```
+
